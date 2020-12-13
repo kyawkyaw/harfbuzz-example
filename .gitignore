@@ -1,5 +1,6 @@
 # build binaries
 bin
+build
 
 # Compiled Object files
 *.slo

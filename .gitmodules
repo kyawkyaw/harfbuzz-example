@@ -1,9 +1,9 @@
 [submodule "harfbuzz-icu-freetype"]
 	path = harfbuzz-icu-freetype
-	url = https://github.com/tangrams/harfbuzz-icu-freetype.git
+	url = https://github.com/kyawkyaw/harfbuzz-icu-freetype.git
 [submodule "glfw"]
 	path = glfw
-	url = https://github.com/glfw/glfw.git
+	url = https://github.com/kyawkyaw/glfw.git
 [submodule "glew-cmake"]
 	path = glew-cmake
-	url = https://github.com/Perlmint/glew-cmake.git
+	url = https://github.com/kyawkyaw/glew-cmake.git
